@@ -23,7 +23,7 @@ public class DBConnect {
 			※ 서버 환경에 따라 ip주소, 포트번호, sid는 변경될 수 있다.
 			 */
 			String url = "jdbc:oracle:thin:@localhost:1521:xe";
-			String id = "hr";
+			String id = "study";
 			String pass = "1234";
 			
 			/*
