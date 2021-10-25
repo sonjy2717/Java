@@ -19,6 +19,7 @@ public class EditDelShop extends IConnectImpl {
 			
 			while (true) {
 				
+				System.out.println("\n제발 숫자만 입력해주세요ㅠㅠㅠㅠ");
 				String SChoice = scanValue("(1)수정 (2)삭제");
 				int choice = Integer.parseInt(SChoice);
 				
